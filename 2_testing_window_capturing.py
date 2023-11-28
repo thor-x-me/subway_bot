@@ -1,4 +1,5 @@
 """
+Run your editor with administrator privileges.
 This piece of code will help you determine if our model is capturing the right area or not
 Run this, it will show you a preview of the area being captured.
 """

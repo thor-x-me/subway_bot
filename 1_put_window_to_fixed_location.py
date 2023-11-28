@@ -1,4 +1,6 @@
-"""This program set the area for the emulator to run in.
+"""
+Run your editor with administrator privileges.
+This program set the area for the emulator to run in.
 It is important as our input neurons need pixels as input in a fixed
 number.
 number of pixels = width * height"""
